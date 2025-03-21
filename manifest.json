@@ -1,7 +1,7 @@
 {
   "name": "Bind keys for scrolling",
   "version": "1.0.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "Emacs style scrolling key binding for Google Chrome",
   "content_scripts": [{
     "matches": ["https://*/*"],
